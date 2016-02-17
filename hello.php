@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Hello PHP</title>
+  <title>Hello PHP example</title>
  </head>
  <body>
  <?php echo '<p>Hello World!</p>'; ?>
